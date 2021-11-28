@@ -171,6 +171,7 @@ h1 {
   }
 
   .between {
+    position: absolute;
     top: 10%;
     left: 50%;
     font-size: 1rem;
